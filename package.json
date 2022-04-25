@@ -1,0 +1,19 @@
+{
+  "name": "create_oracle_entities",
+  "version": "1.0.0",
+  "description": "Create entities from database oracle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "orale",
+    "entities",
+    "typeorm"
+  ],
+  "author": "Fidel Alembert Lascano Valencia<lascano.valencia.fidel@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
